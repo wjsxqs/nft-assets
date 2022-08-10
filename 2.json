@@ -1,0 +1,52 @@
+{
+    "name": "TETHER THE \"HEIR\" #2",
+    "description": "\"Long live crypto!\"\n\nOn a mission to popularize his grand scheme for the crypto world, people either join Tether or are wary of him.",
+    "external_url": "https://cryptoempire.cards/cards/2",
+    "image": "https://assets.cryptoempire.cards/cards-masked/00002.png",
+    "attributes": [
+        {
+            "trait_type": "Grade",
+            "value": "Common"
+        },
+        {
+            "trait_type": "ID",
+            "value": 2
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Project",
+            "value": "Tether"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDT"
+        },
+        {
+            "trait_type": "State",
+            "value": "Active"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Banknote"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "High Roller"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Stablecoin"
+        }
+    ]
+}

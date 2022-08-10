@@ -1,0 +1,56 @@
+{
+    "name": "1INCH THE \"SWORDSMAN\" #3",
+    "description": "\"Be water, my friend.\"\n\n1inch is admired for his ability to channel qi energy to his sword and deliver swift, efficient strikes.",
+    "external_url": "https://cryptoempire.cards/cards/3",
+    "image": "https://assets.cryptoempire.cards/cards-masked/00003.png",
+    "attributes": [
+        {
+            "trait_type": "Grade",
+            "value": "Common"
+        },
+        {
+            "trait_type": "ID",
+            "value": 3
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Project",
+            "value": "1inch"
+        },
+        {
+            "trait_type": "Token",
+            "value": "1INCH"
+        },
+        {
+            "trait_type": "State",
+            "value": "Active"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "1inch Punch"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "White Horse"
+        },
+        {
+            "trait_type": "Category",
+            "value": "DeFi"
+        }
+    ]
+}
